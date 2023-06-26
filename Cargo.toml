@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2021"
 keywords = ["config", "configuration", "mapped"]
 readme = "README.md"
+license = "LICENSE"
 
 [dependencies]
